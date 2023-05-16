@@ -1,0 +1,9 @@
+LEX (or Lexical Analyzer Generator) is a software tool used in compiler design to generate lexical analyzers, also known as scanners. A lexical analyzer is a program that reads the input source code of a program and converts it into a sequence of tokens, which are the basic units of the programming language.
+
+The role of the lexical analyzer is to recognize and categorize the different types of tokens in the source code, such as keywords, identifiers, constants, and operators. This information is then passed on to the parser, which uses it to construct a parse tree for the program.
+
+LEX is used to generate the code for the lexical analyzer based on a set of rules and patterns specified by the compiler designer. These rules and patterns, known as regular expressions, define the syntax of the programming language and the structure of its tokens.
+
+LEX works by generating a finite state machine that recognizes the regular expressions specified in the rules. The generated code reads the input source code character by character and uses the finite state machine to match the input against the regular expressions. When a match is found, the corresponding action is taken, such as generating a token or ignoring whitespace.
+
+The use of LEX in compiler design can greatly simplify the process of building a lexical analyzer for a programming language. It allows the compiler designer to focus on the high-level structure and syntax of the language, while the details of tokenization and scanning are handled automatically by the generated code.

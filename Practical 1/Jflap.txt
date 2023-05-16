@@ -1,0 +1,8 @@
+
+JFLAP is a software tool used for teaching and experimenting with formal languages and automata theory. It was developed by Susan Rodger, a computer science professor at Duke University.
+
+The name JFLAP stands for "Java Formal Languages and Automata Package". It is written in the Java programming language and is available for free download from the JFLAP website.
+
+JFLAP provides a graphical user interface for designing and testing various types of automata, such as finite state machines, pushdown automata, and Turing machines. It also allows users to input and test various types of grammars, including regular, context-free, and context-sensitive grammars.
+
+JFLAP can be used to visualize and test the behavior of automata and grammars, making it a valuable tool for students learning about formal languages and automata theory. It is also useful for researchers and professionals in the field of computer science who need to model and analyze formal languages and automata.
